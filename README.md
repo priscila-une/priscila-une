@@ -6,7 +6,7 @@
 
 ## 🤝🏻 Connect with Me 
 <p>
-<a href="https://www.linkedin.com/in/evelin-priscila-une-santos-82811b1b8/" target="_blank">
+<a href="https://www.linkedin.com/in/evelin-une/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-511281?style=flat&logo=linkedin&logoColor=white" width="100px">
   </a>
   
