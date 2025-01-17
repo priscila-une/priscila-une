@@ -12,10 +12,10 @@
   
   ## ⚡ My Skills
   
-  ![HTML5](https://img.shields.io/badge/-HTML5-red) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Figma](https://img.shields.io/badge/-Figma-green) ![Git](https://img.shields.io/badge/-Git-red)
+  ![HTML5](https://img.shields.io/badge/-HTML5-red) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Figma](https://img.shields.io/badge/-Figma-green) ![Git](https://img.shields.io/badge/-Git-red) ![React](https://img.shields.io/badge/-React-blue)
   ## 🌱 I’m currently learning ... 
  
-  ![React](https://img.shields.io/badge/-React-blue)
+  ![Nodejs](https://img.shields.io/badge/-Nodejs-blue)
   
   <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscila-une&hide=html&layout=compact&theme=synthwave" />
   <br>
